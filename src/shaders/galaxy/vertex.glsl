@@ -1,5 +1,7 @@
 uniform float uSize;
 
+attribute float aScale;
+
 void main() {
     /**
         * Positions
