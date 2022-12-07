@@ -14,5 +14,5 @@ void main() {
     /**
     * Size
     */
-    gl_PointSize = uSize;
+    gl_PointSize = uSize * aScale;
 }
